@@ -96,7 +96,7 @@ router.post('/rsvp', function(req, res){
 //Get route for volunteer rsvp'd events
 router.get('/rsvp/volunteer', function(req, res){
   var rsvp = req.body;
-  console.log('Get route called to', rsvp);
+  console.log('Get route called at /rsvp/volunteer to', rsvp);
   console.log('req.user.id', req.user.id);
   if(req.isAuthenticated()) {
     // errorConnecting is bool, db is what we query against,
