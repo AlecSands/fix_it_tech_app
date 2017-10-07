@@ -32,7 +32,7 @@ myApp.controller('HomeController', function($http, $location, $mdDialog, UserAut
 
     //Main Landing Page Routes/Functions
     getEvents();
-    volunteerEventRSVP();
+    // volunteerEventRSVP();
 
     // Get all upcoming events
     function getEvents(){

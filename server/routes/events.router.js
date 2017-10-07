@@ -14,7 +14,7 @@ router.get('/', function(req, res){
   // done is a function that we call when we're done
   pool.connect(function(errorConnectingToDatabase, db, done){
     if(errorConnectingToDatabase) {
-      console.log('Error connecting to the database.');
+      console.log('Error connecting to the database.', errorConnectingToDatabase);
       res.sendStatus(500);
     } else {
       //method that passport puts on the req object returns T or F
