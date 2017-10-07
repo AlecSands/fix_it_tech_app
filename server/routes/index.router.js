@@ -13,6 +13,7 @@ router.get('/auth/google/callback',
   passport.authenticate('google'),
   function(req, res) {
     // Successful authentication, redirect home.
+    console.log('inside callback index.router.js line 16');
     res.redirect('/');
   });
 
