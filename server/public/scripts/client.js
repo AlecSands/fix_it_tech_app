@@ -93,13 +93,13 @@ myApp.config(function($routeProvider, $locationProvider) {
     templateUrl: '/views/templates/admin/eventRSVP.html',
   })
   .when('/about', {
-    templateUrl: '/views/templates/Footer/about.html',
+    templateUrl: '/views/templates/footer/about.html',
   })
   .when('/resources', {
-    templateUrl: '/views/templates/Footer/resources.html',
+    templateUrl: '/views/templates/footer/resources.html',
   })
   .when('/sponsors', {
-    templateUrl: '/views/templates/Footer/sponsors.html',
+    templateUrl: '/views/templates/footer/sponsors.html',
   })
   .when('/skills', {
     templateUrl: '/views/templates/admin/volunteerSkills.html',
