@@ -43,14 +43,11 @@ Link to software that is required to install the app.
 
 ## Screen Shot
 
-Home Page | Admin View
---------- | ----------
-![](screenshots/Home.jpeg) |
-![Image of topic selection page](screenshots/Home.jpeg) | ![Image of topic selection page](screenshots/out.gif)
-
-Select a Topic                     |  Idea Web with Dots           |  Idea Web with Text
+Select a Topic                     |  Create an Event (Admin)      |  View All Volunteers (Admin)
 :---------------------------------:|:-----------------------------:|:----------------------------:
-![](screenshots/Home.jpeg)         |  ![](screenshots/out.gif)     |  ![](screenshots/Home.jpeg)
+![](screenshots/Home.jpeg)         |  ![](screenshots/create_event.jpeg)     |  ![](screenshots/volunteers.jpeg)
+
+![](screenshots/out.gif)
 
 ## Documentation
 Below is a link to our project scope.
