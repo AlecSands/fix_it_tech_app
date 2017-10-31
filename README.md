@@ -34,10 +34,10 @@ Link to software that is required to install the app.
 ### Installing
 
 1. Run `$npm install` in the terminal
-2. Create an PostgreSQL database titled 'fix-it_tech'
+2. Create an PostgreSQL database titled *fix-it_tech*
 3. Open the [databaseSetup.sql](databaseSetup.sql) file and run all the queries in PostgreSQL
-4. Create a duplicate of the [.config-dist.js](server/.config-dist.js) file and rename it '.config.js'
-5. In the new '.config.js' add in your own database and google authentication details
+4. Create a duplicate of the [.config-dist.js](server/.config-dist.js) file and rename it *.config.js*
+5. In the new *.config.js* add in your own database and google authentication details
 6. Run `$npm start` to run the server
 
 
