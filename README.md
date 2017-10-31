@@ -48,6 +48,7 @@ Select a Topic                     |  Create an Event (Admin)      |  View All V
 ![](screenshots/Home.jpeg)         |  ![](screenshots/create_event.jpeg)     |  ![](screenshots/volunteers.jpeg)
 
 Administrator View Demonstration
+
 ![](screenshots/out.gif)
 
 ## Documentation
