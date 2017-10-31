@@ -43,11 +43,9 @@ Link to software that is required to install the app.
 
 ## Screen Shot
 
-Home Page.
-![Image of topic selection page](screenshots/Home.jpeg)
-
-Admin Demo.
-![Image of topic selection page](screenshots/out.gif)
+Home Page | Admin View
+--------- | ----------
+![Image of topic selection page](screenshots/Home.jpeg) | ![Image of topic selection page](screenshots/out.gif)
 
 ## Documentation
 Below is a link to our project scope.
