@@ -52,18 +52,18 @@ Administrator View Demonstration
 ![](screenshots/out.gif)
 
 ## Documentation
-Below is a link to our project scope.
-https://docs.google.com/document/d/1dqJH1ZG9PkyO95eMTMDAE5pyidpfBhcKZgUZenO5Ops/edit?usp=sharing
+
+The scope document that was used to guide the development of this web application can be found [here](https://docs.google.com/document/d/1dqJH1ZG9PkyO95eMTMDAE5pyidpfBhcKZgUZenO5Ops/edit?usp=sharing).
 
 ### Stretch Goals
 
-Features that you would like to add at some point in the future.
+- [ ] Add a role for customers / participants to events so they can submit what technologies they will bring to an upcoming event
+- [ ] Incorporate google maps to show event locations for upcoming events
+- [ ] Create a graphic which communicates attendance on a map to demonstrate the impact of events over time
 
-- [ ] Feature
+<!-- ## Deployment
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+Add additional notes about how to deploy this on a live system -->
 
 ## Authors
 
