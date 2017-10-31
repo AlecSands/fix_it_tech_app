@@ -99,7 +99,7 @@ INSERT INTO "proficiency" (level) VALUES
 ('Interested in Learning');
 
 INSERT INTO "volunteers" (first_name, last_name, email, phone, organization, role, status) VALUES
-('Frodo', 'Baggins', 'frodo@gmail.com', '612-123-4567', 'The Shire', 2, 'active');
+('John', 'Jones', 'Jones@gmail.com', '111-123-4567', 'Downtown', 2, 'active');
 
 INSERT INTO "volunteers" (first_name, last_name, email, phone, organization, role, status) VALUES
-('Legolas', 'Too good for a last name', 'legolas@yahoo.com', '612-456-4567', 'Elves of Northern Mirkwood', 2, 'inactive');
+('Bob', 'Branson', 'Branson@yahoo.com', '111-456-4567', 'Suburbs', 2, 'inactive');
